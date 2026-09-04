@@ -1,0 +1,4 @@
+repository "My project (1)/3DNovellaContentMaker@18968493773660@cloud"
+  path "/"
+    br "/main"
+    co "/main"
